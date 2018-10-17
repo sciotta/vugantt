@@ -1,0 +1,30 @@
+[
+  {
+    "task": "Antônio Fagundes",
+    "description": "Ator coadjuvante",
+    "intervals": [
+      {
+        "start": "2018-07-14",
+        "end": "2018-08-21",
+        "type": "Pré-reserva",
+        "color": "#ff00ff"
+      }, {
+        "start": "2018-05-10",
+        "end": "2018-06-29",
+        "type": "Alocado",
+        "color": "#ff0000"
+      }
+    ]
+  }, {
+    "task": "Glória Maria",
+    "description": "Reporter",
+    "intervals": [
+      {
+        "start": "2019-04-14",
+        "end": "2019-05-21",
+        "type": "Alocado",
+        "color": "#ff0000"
+      }
+    ]
+  }
+]
